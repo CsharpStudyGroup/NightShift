@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NightShift", "NightShift\NightShift.csproj", "{4590E1E2-8C98-496D-9446-D09D6BD92178}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4590E1E2-8C98-496D-9446-D09D6BD92178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4590E1E2-8C98-496D-9446-D09D6BD92178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4590E1E2-8C98-496D-9446-D09D6BD92178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4590E1E2-8C98-496D-9446-D09D6BD92178}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F753F235-CFE7-44AE-AD0E-D0EBA0968E21}
+	EndGlobalSection
+EndGlobal
