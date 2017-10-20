@@ -10,6 +10,7 @@ namespace NightShift.Controllers
     {
         public ActionResult Index()
         {
+            Console.WriteLine("소스 수정 테스트");
             return View();
         }
 
